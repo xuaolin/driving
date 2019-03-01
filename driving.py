@@ -11,3 +11,6 @@ elif country == '美国':
 		print ('you can drive')
 	else:
 		print ('you cant drive')
+else:
+	print ('only 中国 and 美国')
+	
