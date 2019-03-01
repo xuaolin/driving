@@ -6,3 +6,8 @@ if country == '中国':
 		print ('you can drive')
 	else:
 		print ('you cant drive')
+elif country == '美国':
+	if age >= 16:
+		print ('you can drive')
+	else:
+		print ('you cant drive')
